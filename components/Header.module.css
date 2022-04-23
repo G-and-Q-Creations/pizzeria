@@ -1,0 +1,7 @@
+.header {
+    border-bottom: rgb(204, 86, 35) solid 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:rgb(204, 86, 35);
+}
