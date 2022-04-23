@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       {Header()}
-      we love pizza!
+      we love pizza!!
 
     </div>
   );
