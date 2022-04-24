@@ -9,8 +9,3 @@ Goeun and Quigley are two Millenials from the Midwest with absolutely no right t
 Goeun loves anchovies and hates pineapples on pizza.
 
 Quigley loves pineapples and hates anchovies on pizza.
-
-
-## About this site
-This site
-
