@@ -18,8 +18,8 @@ const Bio: NextPage = (posts) => {
         </p>
         <p>Unfortunately, we know how to put a website on the Internet.</p>
         <br></br>
-        <p>Goeun loves anchovies and hates pineapples on pizza.</p>
-        <p> Quigley loves pineapples and hates anchovies on pizza.</p>
+        <p>🐟 Goeun loves anchovies and hates pineapples on pizza.</p>
+        <p>🍍 Quigley loves pineapples and hates anchovies on pizza.</p>
       </div>
     </div>
   );

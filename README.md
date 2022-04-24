@@ -18,7 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## development log
 ### april 23, 2022
-* it must be possible to pull out a single markdown file as the content source for the About page but all the tutorials expected it would be part of a larger blogpost, figure out how  `getStaticProps()` works
+* it must be possible to pull out a single markdown file as the content source for the About page but all the tutorials expected it would be part of a larger blogpost, figure out how  `getStaticProps()` works? [link](https://w3collective.com/static-blog-next-js/)
+* for next time: just use mapbox-gl directly, it's...fine 🙄
   
 ```typescript
 somewhere in lib/posts.ts
